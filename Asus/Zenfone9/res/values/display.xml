@@ -2,6 +2,10 @@
 <resources>
     <string name="config_mainBuiltInDisplayCutout">M131,77m-36,0a36,36 0,1 1,72 0a36,36 0,1 1,-72 0 @left</string>
     <string name="config_mainBuiltInDisplayCutoutRectApproximation">M 0.0,0.0 h 168 v 114 h -168 Z @left</string>
+    <bool name="config_fillMainBuiltInDisplayCutout">true</bool>
+    <dimen name="status_bar_height">115.0px</dimen>
+    <dimen name="status_bar_height_landscape">28.0dip</dimen>
+    <dimen name="status_bar_height_portrait">115.0px</dimen>
     <integer-array name="config_autoBrightnessLevels">
         <item>1</item>
         <item>15</item>

@@ -11,6 +11,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-asus-zenfone5-10 \
 	treble-overlay-asus-zenfone5z \
 	treble-overlay-asus-zenfone8 \
+	treble-overlay-asus-zenfone9 \
 	treble-overlay-asus-zenfonelivel1za550kl \
 	treble-overlay-asus-zenfonemaxm2 \
 	treble-overlay-asus-zenfonemaxshot \
